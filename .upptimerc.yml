@@ -57,7 +57,7 @@ status-website:
   logoUrl: https://static1.squarespace.com/static/594131ea86e6c04a5926a83d/t/5a2dc732f9619a5b7c8c583c/1552582183328/?format=1500w
   name: clutch monitor
   introTitle: "**We makes complex things simple.**"
-  introMessage: This is a general status page which checks for application response headers every five minutes.
+  introMessage: A general status page that checks for http response headers every five minutes.
 i18n:
   footer: This page is made with ❤️ by euro.
 
