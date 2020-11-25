@@ -1,34 +1,65 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: euro # Your GitHub username
+repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: USFA Akamai
+    url: https://www.usfa.fema.gov
+  - name: USFA Apps
+    url: https://apps.usfa.fema.gov
+  - name: USFA NFA
+    url: https://nfa.usfa.fema.gov
+  - name: Civilian fatalities
+    url: https://apps.usfa.fema.gov/civilian-fatalities
+  - name: Contact - NFA courses voucher
+    url: https://apps.usfa.fema.gov/contact/voucher
+  - name: Contact - Register for Fire is Everyones Fight materials
+    url: https://apps.usfa.fema.gov/contact/fief
+  - name: Contact - Qualitative feedback on analytical reports
+    url: https://apps.usfa.fema.gov/contact/dataReportEval
+  - name: Contact - NFIRS tech support form
+    url: https://apps.usfa.fema.gov/contact/ntsc
+  - name: Contact - NFA transcript request
+    url: https://apps.usfa.fema.gov/contact/transcript
+  - name: Contact - Library research consultation request
+    url: https://apps.usfa.fema.gov/contact/researchConsult
+  - name: Fire department registry
+    url: https://apps.usfa.fema.gov/registry
+  - name: Firefighter fatalities
+    url: https://apps.usfa.fema.gov/firefighter-fatalities
+  - name: Hotel/Motel
+    url: https://apps.usfa.fema.gov/hotel
+  - name: Hotel/Motel state management
+    url: https://apps.usfa.fema.gov/hotel/state_management
+  - name: NFAcourses
+    url: https://apps.usfa.fema.gov/nfacourses
+  - name: NFAcourses - Instructor
+    url: https://apps.usfa.fema.gov/nfacourses/instructor
+  - name: NFAcourses - Course call
+    url: https://apps.usfa.fema.gov/nfacourses/courseCall
+  - name: NFAcourses - Distance learning evaluation
+    url: https://apps.usfa.fema.gov/nfacourses/DistanceLearningEvaluation
+  - name: NFAcourses - End of course evaluation
+    url: https://apps.usfa.fema.gov/nfacourses/eoc
+  - name: NFAcourses - Long term evaluation
+    url: https://apps.usfa.fema.gov/nfacourses/longTermEvaluation
+  - name: Publications
+    url: https://apps.usfa.fema.gov/publications
+  - name: Thesaurus
+    url: https://apps.usfa.fema.gov/thesaurus
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  baseUrl: /status
+  logoUrl: https://static1.squarespace.com/static/594131ea86e6c04a5926a83d/t/5a2dc732f9619a5b7c8c583c/1552582183328/?format=1500w
+  name: clutch monitor
+  introTitle: "**We makes complex things simple.**"
+  introMessage: This is a general status page which checks for application response headers every five minutes.
+i18n:
+  footer: This page is made with ❤️ by euro.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
