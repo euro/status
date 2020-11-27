@@ -83,9 +83,9 @@
     "name": "Fire department registry",
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 101
+    "status": "up",
+    "uptime": "97.44%",
+    "time": 260
   },
   {
     "name": "Firefighter fatalities",
