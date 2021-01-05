@@ -5,14 +5,14 @@
     "slug": "usfa-akamai",
     "status": "up",
     "uptime": "100.00%",
-    "time": 297
+    "time": 296
   },
   {
     "name": "USFA Apps",
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "time": 413
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://nfa.usfa.fema.gov",
     "slug": "usfa-nfa",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "time": 392
   },
   {
@@ -29,7 +29,7 @@
     "slug": "civilian-fatalities",
     "status": "up",
     "uptime": "99.54%",
-    "time": 618
+    "time": 612
   },
   {
     "name": "Contact - NFA courses voucher",
@@ -37,7 +37,7 @@
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
     "uptime": "99.59%",
-    "time": 108
+    "time": 107
   },
   {
     "name": "Contact - Register for Fire is Everyones Fight materials",
@@ -84,32 +84,32 @@
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
     "status": "up",
-    "uptime": "99.43%",
-    "time": 213
+    "uptime": "99.44%",
+    "time": 211
   },
   {
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "99.59%",
-    "time": 160
+    "uptime": "99.60%",
+    "time": 159
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
     "status": "up",
-    "uptime": "99.39%",
-    "time": 1355
+    "uptime": "99.40%",
+    "time": 1331
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
     "status": "up",
-    "uptime": "99.50%",
-    "time": 1235
+    "uptime": "99.51%",
+    "time": 1213
   },
   {
     "name": "NFAcourses",
@@ -117,7 +117,7 @@
     "slug": "nf-acourses",
     "status": "up",
     "uptime": "99.60%",
-    "time": 191
+    "time": 190
   },
   {
     "name": "NFAcourses - Instructor",
@@ -133,7 +133,7 @@
     "slug": "nf-acourses-course-call",
     "status": "up",
     "uptime": "99.60%",
-    "time": 158
+    "time": 157
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
@@ -165,7 +165,7 @@
     "slug": "publications",
     "status": "up",
     "uptime": "99.60%",
-    "time": 285
+    "time": 283
   },
   {
     "name": "Thesaurus",
@@ -173,6 +173,6 @@
     "slug": "thesaurus",
     "status": "up",
     "uptime": "99.60%",
-    "time": 242
+    "time": 240
   }
 ]
