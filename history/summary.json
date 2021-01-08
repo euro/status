@@ -5,14 +5,14 @@
     "slug": "usfa-akamai",
     "status": "up",
     "uptime": "100.00%",
-    "time": 297
+    "time": 292
   },
   {
     "name": "USFA Apps",
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "time": 410
   },
   {
@@ -20,16 +20,16 @@
     "url": "https://nfa.usfa.fema.gov",
     "slug": "usfa-nfa",
     "status": "up",
-    "uptime": "99.61%",
-    "time": 388
+    "uptime": "99.62%",
+    "time": 390
   },
   {
     "name": "Civilian fatalities",
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
     "status": "up",
-    "uptime": "99.57%",
-    "time": 599
+    "uptime": "99.58%",
+    "time": 592
   },
   {
     "name": "Contact - NFA courses voucher",
@@ -37,7 +37,7 @@
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
     "uptime": "99.62%",
-    "time": 107
+    "time": 106
   },
   {
     "name": "Contact - Register for Fire is Everyones Fight materials",
@@ -69,7 +69,7 @@
     "slug": "contact-nfa-transcript-request",
     "status": "up",
     "uptime": "99.62%",
-    "time": 87
+    "time": 86
   },
   {
     "name": "Contact - Library research consultation request",
@@ -77,7 +77,7 @@
     "slug": "contact-library-research-consultation-request",
     "status": "up",
     "uptime": "99.62%",
-    "time": 82
+    "time": 81
   },
   {
     "name": "Fire department registry",
@@ -85,7 +85,7 @@
     "slug": "fire-department-registry",
     "status": "up",
     "uptime": "99.47%",
-    "time": 207
+    "time": 205
   },
   {
     "name": "Firefighter fatalities",
@@ -93,30 +93,30 @@
     "slug": "firefighter-fatalities",
     "status": "up",
     "uptime": "99.62%",
-    "time": 157
+    "time": 158
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
     "status": "up",
-    "uptime": "99.43%",
-    "time": 1286
+    "uptime": "99.44%",
+    "time": 1265
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
     "status": "up",
-    "uptime": "99.43%",
-    "time": 1324
+    "uptime": "99.44%",
+    "time": 1303
   },
   {
     "name": "NFAcourses",
     "url": "https://apps.usfa.fema.gov/nfacourses",
     "slug": "nf-acourses",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "time": 188
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/instructor",
     "slug": "nf-acourses-instructor",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "time": 118
   },
   {
@@ -132,8 +132,8 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/courseCall",
     "slug": "nf-acourses-course-call",
     "status": "up",
-    "uptime": "99.62%",
-    "time": 156
+    "uptime": "99.63%",
+    "time": 155
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
@@ -165,7 +165,7 @@
     "slug": "publications",
     "status": "up",
     "uptime": "99.63%",
-    "time": 281
+    "time": 280
   },
   {
     "name": "Thesaurus",
@@ -173,6 +173,6 @@
     "slug": "thesaurus",
     "status": "up",
     "uptime": "99.63%",
-    "time": 238
+    "time": 236
   }
 ]
