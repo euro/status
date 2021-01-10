@@ -20,7 +20,7 @@
     "url": "https://nfa.usfa.fema.gov",
     "slug": "usfa-nfa",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "time": 382
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "time": 88
   },
   {
@@ -91,8 +91,8 @@
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
-    "status": "down",
-    "uptime": "98.42%",
+    "status": "up",
+    "uptime": "98.36%",
     "time": 151
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "time": 1198
   },
   {
@@ -132,7 +132,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/courseCall",
     "slug": "nf-acourses-course-call",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "time": 160
   },
   {
