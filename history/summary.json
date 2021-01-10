@@ -52,7 +52,7 @@
     "url": "https://apps.usfa.fema.gov/contact/dataReportEval",
     "slug": "contact-qualitative-feedback-on-analytical-reports",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "time": 92
   },
   {
@@ -91,9 +91,9 @@
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
-    "status": "up",
+    "status": "down",
     "uptime": "98.21%",
-    "time": 608
+    "time": 597
   },
   {
     "name": "Hotel/Motel",
