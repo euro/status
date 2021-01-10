@@ -83,16 +83,16 @@
     "name": "Fire department registry",
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "98.27%",
-    "time": 208
+    "time": 205
   },
   {
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "time": 153
   },
   {
@@ -148,7 +148,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/eoc",
     "slug": "nf-acourses-end-of-course-evaluation",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "time": 75
   },
   {
