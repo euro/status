@@ -91,9 +91,9 @@
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "time": 151
+    "time": 148
   },
   {
     "name": "Hotel/Motel",
@@ -124,7 +124,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/instructor",
     "slug": "nf-acourses-instructor",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "time": 116
   },
   {
