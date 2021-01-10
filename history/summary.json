@@ -12,7 +12,7 @@
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "time": 400
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://apps.usfa.fema.gov/contact/ntsc",
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "time": 88
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://apps.usfa.fema.gov/contact/transcript",
     "slug": "contact-nfa-transcript-request",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "time": 90
   },
   {
@@ -91,9 +91,9 @@
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
-    "status": "down",
-    "uptime": "98.36%",
-    "time": 148
+    "status": "up",
+    "uptime": "98.21%",
+    "time": 608
   },
   {
     "name": "Hotel/Motel",
@@ -116,7 +116,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses",
     "slug": "nf-acourses",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "time": 184
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://apps.usfa.fema.gov/publications",
     "slug": "publications",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "time": 272
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://apps.usfa.fema.gov/thesaurus",
     "slug": "thesaurus",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "time": 249
   }
 ]
