@@ -11,24 +11,24 @@
     "name": "USFA Apps",
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "time": 395
+    "time": 390
   },
   {
     "name": "USFA NFA",
     "url": "https://nfa.usfa.fema.gov",
     "slug": "usfa-nfa",
-    "status": "down",
-    "uptime": "98.99%",
-    "time": 380
+    "status": "up",
+    "uptime": "98.93%",
+    "time": 381
   },
   {
     "name": "Civilian fatalities",
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
     "status": "down",
-    "uptime": "98.80%",
+    "uptime": "98.74%",
     "time": 889
   },
   {
@@ -36,72 +36,72 @@
     "url": "https://apps.usfa.fema.gov/contact/voucher",
     "slug": "contact-nfa-courses-voucher",
     "status": "down",
-    "uptime": "98.83%",
+    "uptime": "98.77%",
     "time": 532
   },
   {
     "name": "Contact - Register for Fire is Everyones Fight materials",
     "url": "https://apps.usfa.fema.gov/contact/fief",
     "slug": "contact-register-for-fire-is-everyones-fight-materials",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 114
+    "time": 112
   },
   {
     "name": "Contact - Qualitative feedback on analytical reports",
     "url": "https://apps.usfa.fema.gov/contact/dataReportEval",
     "slug": "contact-qualitative-feedback-on-analytical-reports",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "time": 85
+    "time": 84
   },
   {
     "name": "Contact - NFIRS tech support form",
     "url": "https://apps.usfa.fema.gov/contact/ntsc",
     "slug": "contact-nfirs-tech-support-form",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "time": 88
+    "time": 87
   },
   {
     "name": "Contact - NFA transcript request",
     "url": "https://apps.usfa.fema.gov/contact/transcript",
     "slug": "contact-nfa-transcript-request",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "time": 82
+    "time": 81
   },
   {
     "name": "Contact - Library research consultation request",
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "time": 91
+    "time": 90
   },
   {
     "name": "Fire department registry",
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "time": 200
+    "time": 198
   },
   {
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "time": 486
+    "time": 479
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "time": 1498
+    "time": 1480
   },
   {
     "name": "Hotel/Motel state management",
@@ -172,7 +172,7 @@
     "url": "https://apps.usfa.fema.gov/thesaurus",
     "slug": "thesaurus",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "time": 235
   }
 ]
