@@ -67,9 +67,9 @@
     "name": "Contact - NFA transcript request",
     "url": "https://apps.usfa.fema.gov/contact/transcript",
     "slug": "contact-nfa-transcript-request",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "time": 80
+    "time": 79
   },
   {
     "name": "Contact - Library research consultation request",
@@ -132,7 +132,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/courseCall",
     "slug": "nf-acourses-course-call",
     "status": "up",
-    "uptime": "98.96%",
+    "uptime": "98.97%",
     "time": 153
   },
   {
@@ -140,7 +140,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/DistanceLearningEvaluation",
     "slug": "nf-acourses-distance-learning-evaluation",
     "status": "up",
-    "uptime": "98.96%",
+    "uptime": "98.97%",
     "time": 103
   },
   {
