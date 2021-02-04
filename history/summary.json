@@ -3,9 +3,9 @@
     "name": "USFA Akamai",
     "url": "https://www.usfa.fema.gov",
     "slug": "usfa-akamai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "time": 568
+    "time": 573
   },
   {
     "name": "USFA Apps",
@@ -68,7 +68,7 @@
     "url": "https://apps.usfa.fema.gov/contact/transcript",
     "slug": "contact-nfa-transcript-request",
     "status": "down",
-    "uptime": "96.58%",
+    "uptime": "96.57%",
     "time": 79
   },
   {
