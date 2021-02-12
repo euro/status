@@ -20,8 +20,8 @@ sites:
     url: https://apps.usfa.fema.gov/contact/dataReportEval
   - name: Contact - NFIRS tech support form
     url: https://apps.usfa.fema.gov/contact/ntsc
-  - name: Contact - NFA transcript request
-    url: https://apps.usfa.fema.gov/contact/transcript
+  - name: Contact - Credly badge request
+    url: https://apps.usfa.fema.gov/contact/credlyBadge
   - name: Contact - Library research consultation request
     url: https://apps.usfa.fema.gov/contact/researchConsult
   - name: Fire department registry
