@@ -1,7 +1,7 @@
 url: https://apps.usfa.fema.gov/contact/credlyBadge  
-status: down
-code: 500
-responseTime: 7082
-lastUpdated: 2021-02-24T02:12:37.520Z
+status: up
+code: 200
+responseTime: 21049
+lastUpdated: 2021-02-24T02:41:23.977Z
 startTime: Fri Feb 12 2021 14:35:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
