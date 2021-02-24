@@ -1,7 +1,7 @@
 url: https://apps.usfa.fema.gov/contact/voucher  
-status: down
-code: 500
-responseTime: 7775
-lastUpdated: 2021-02-24T02:11:05.519Z
+status: up
+code: 200
+responseTime: 21072
+lastUpdated: 2021-02-24T02:39:54.532Z
 startTime: Wed Nov 25 2020 04:22:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
