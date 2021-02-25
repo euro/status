@@ -5,7 +5,7 @@
     "slug": "usfa-akamai",
     "status": "up",
     "uptime": "99.93%",
-    "time": 512
+    "time": 511
   },
   {
     "name": "USFA Apps",
@@ -13,14 +13,14 @@
     "slug": "usfa-apps",
     "status": "up",
     "uptime": "99.26%",
-    "time": 401
+    "time": 403
   },
   {
     "name": "USFA NFA",
     "url": "https://nfa.usfa.fema.gov",
     "slug": "usfa-nfa",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "time": 385
   },
   {
@@ -28,15 +28,15 @@
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
     "status": "up",
-    "uptime": "99.06%",
-    "time": 989
+    "uptime": "99.07%",
+    "time": 987
   },
   {
     "name": "Contact - NFA courses voucher",
     "url": "https://apps.usfa.fema.gov/contact/voucher",
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "time": 702
   },
   {
@@ -52,31 +52,31 @@
     "url": "https://apps.usfa.fema.gov/contact/dataReportEval",
     "slug": "contact-qualitative-feedback-on-analytical-reports",
     "status": "up",
-    "uptime": "99.13%",
-    "time": 364
+    "uptime": "99.14%",
+    "time": 363
   },
   {
     "name": "Contact - NFIRS tech support form",
     "url": "https://apps.usfa.fema.gov/contact/ntsc",
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
-    "uptime": "99.13%",
-    "time": 362
+    "uptime": "99.14%",
+    "time": 361
   },
   {
     "name": "Contact - Credly badge request",
     "url": "https://apps.usfa.fema.gov/contact/credlyBadge",
     "slug": "contact-credly-badge-request",
     "status": "up",
-    "uptime": "99.70%",
-    "time": 1739
+    "uptime": "99.72%",
+    "time": 1645
   },
   {
     "name": "Contact - Library research consultation request",
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "time": 364
   },
   {
@@ -84,8 +84,8 @@
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
     "status": "up",
-    "uptime": "99.01%",
-    "time": 433
+    "uptime": "99.02%",
+    "time": 424
   },
   {
     "name": "Firefighter fatalities",
@@ -100,31 +100,31 @@
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
     "status": "up",
-    "uptime": "98.90%",
-    "time": 1946
+    "uptime": "98.91%",
+    "time": 1945
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
     "status": "up",
-    "uptime": "98.96%",
-    "time": 2002
+    "uptime": "98.97%",
+    "time": 2000
   },
   {
     "name": "NFAcourses",
     "url": "https://apps.usfa.fema.gov/nfacourses",
     "slug": "nf-acourses",
     "status": "up",
-    "uptime": "99.20%",
-    "time": 183
+    "uptime": "99.21%",
+    "time": 184
   },
   {
     "name": "NFAcourses - Instructor",
     "url": "https://apps.usfa.fema.gov/nfacourses/instructor",
     "slug": "nf-acourses-instructor",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "time": 119
   },
   {
@@ -132,8 +132,8 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/courseCall",
     "slug": "nf-acourses-course-call",
     "status": "up",
-    "uptime": "99.20%",
-    "time": 149
+    "uptime": "99.21%",
+    "time": 148
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
@@ -157,22 +157,22 @@
     "slug": "nf-acourses-long-term-evaluation",
     "status": "up",
     "uptime": "99.21%",
-    "time": 75
+    "time": 74
   },
   {
     "name": "Publications",
     "url": "https://apps.usfa.fema.gov/publications",
     "slug": "publications",
     "status": "up",
-    "uptime": "99.21%",
-    "time": 315
+    "uptime": "99.22%",
+    "time": 314
   },
   {
     "name": "Thesaurus",
     "url": "https://apps.usfa.fema.gov/thesaurus",
     "slug": "thesaurus",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "time": 228
   }
 ]
