@@ -5,15 +5,15 @@
     "slug": "usfa-akamai",
     "status": "up",
     "uptime": "99.94%",
-    "time": 518
+    "time": 508
   },
   {
     "name": "USFA Apps",
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
     "status": "up",
-    "uptime": "99.35%",
-    "time": 409
+    "uptime": "99.36%",
+    "time": 399
   },
   {
     "name": "USFA NFA",
@@ -21,22 +21,22 @@
     "slug": "usfa-nfa",
     "status": "up",
     "uptime": "99.36%",
-    "time": 387
+    "time": 389
   },
   {
     "name": "Civilian fatalities",
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
     "status": "up",
-    "uptime": "99.18%",
-    "time": 956
+    "uptime": "99.19%",
+    "time": 954
   },
   {
     "name": "Contact - NFA courses voucher",
     "url": "https://apps.usfa.fema.gov/contact/voucher",
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "time": 689
   },
   {
@@ -68,15 +68,15 @@
     "url": "https://apps.usfa.fema.gov/contact/credlyBadge",
     "slug": "contact-credly-badge-request",
     "status": "up",
-    "uptime": "99.86%",
-    "time": 981
+    "uptime": "99.87%",
+    "time": 952
   },
   {
     "name": "Contact - Library research consultation request",
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "time": 357
   },
   {
@@ -84,23 +84,23 @@
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
     "status": "up",
-    "uptime": "99.14%",
-    "time": 417
+    "uptime": "99.15%",
+    "time": 418
   },
   {
     "name": "Firefighter fatalities",
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "99.13%",
-    "time": 397
+    "uptime": "99.14%",
+    "time": 399
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "time": 1710
   },
   {
@@ -109,7 +109,7 @@
     "slug": "hotel-motel-state-management",
     "status": "up",
     "uptime": "99.10%",
-    "time": 1635
+    "time": 1634
   },
   {
     "name": "NFAcourses",
@@ -124,23 +124,23 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/instructor",
     "slug": "nf-acourses-instructor",
     "status": "up",
-    "uptime": "99.31%",
-    "time": 118
+    "uptime": "99.32%",
+    "time": 117
   },
   {
     "name": "NFAcourses - Course call",
     "url": "https://apps.usfa.fema.gov/nfacourses/courseCall",
     "slug": "nf-acourses-course-call",
     "status": "up",
-    "uptime": "99.31%",
-    "time": 144
+    "uptime": "99.32%",
+    "time": 143
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
     "url": "https://apps.usfa.fema.gov/nfacourses/DistanceLearningEvaluation",
     "slug": "nf-acourses-distance-learning-evaluation",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "time": 94
   },
   {
@@ -148,7 +148,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/eoc",
     "slug": "nf-acourses-end-of-course-evaluation",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "time": 70
   },
   {
@@ -156,7 +156,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/longTermEvaluation",
     "slug": "nf-acourses-long-term-evaluation",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "time": 74
   },
   {
@@ -164,15 +164,15 @@
     "url": "https://apps.usfa.fema.gov/publications",
     "slug": "publications",
     "status": "up",
-    "uptime": "99.31%",
-    "time": 312
+    "uptime": "99.32%",
+    "time": 311
   },
   {
     "name": "Thesaurus",
     "url": "https://apps.usfa.fema.gov/thesaurus",
     "slug": "thesaurus",
     "status": "up",
-    "uptime": "99.31%",
-    "time": 226
+    "uptime": "99.32%",
+    "time": 225
   }
 ]
