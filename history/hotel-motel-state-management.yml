@@ -1,7 +1,7 @@
 url: https://apps.usfa.fema.gov/hotel/state_management  
-status: down
-code: 500
-responseTime: 11748
-lastUpdated: 2021-03-17T16:46:57.406Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2021-03-17T17:20:26.572Z
 startTime: Wed Nov 25 2020 04:22:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
