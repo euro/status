@@ -5,7 +5,7 @@
     "slug": "usfa-akamai",
     "status": "up",
     "uptime": "99.95%",
-    "time": 510
+    "time": 511
   },
   {
     "name": "USFA Apps",
@@ -13,7 +13,7 @@
     "slug": "usfa-apps",
     "status": "up",
     "uptime": "99.41%",
-    "time": 405
+    "time": 408
   },
   {
     "name": "USFA NFA",
@@ -21,7 +21,7 @@
     "slug": "usfa-nfa",
     "status": "up",
     "uptime": "99.41%",
-    "time": 383
+    "time": 384
   },
   {
     "name": "Civilian fatalities",
@@ -29,7 +29,7 @@
     "slug": "civilian-fatalities",
     "status": "up",
     "uptime": "99.25%",
-    "time": 955
+    "time": 959
   },
   {
     "name": "Contact - NFA courses voucher",
@@ -61,7 +61,7 @@
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
     "uptime": "99.31%",
-    "time": 360
+    "time": 361
   },
   {
     "name": "Contact - Credly badge request",
@@ -69,7 +69,7 @@
     "slug": "contact-credly-badge-request",
     "status": "up",
     "uptime": "99.90%",
-    "time": 792
+    "time": 775
   },
   {
     "name": "Contact - Library research consultation request",
@@ -99,17 +99,17 @@
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "down",
+    "status": "up",
     "uptime": "99.10%",
-    "time": 2196
+    "time": 2204
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
     "status": "down",
-    "uptime": "99.12%",
-    "time": 2744
+    "uptime": "99.11%",
+    "time": 2924
   },
   {
     "name": "NFAcourses",
@@ -117,7 +117,7 @@
     "slug": "nf-acourses",
     "status": "up",
     "uptime": "99.36%",
-    "time": 179
+    "time": 180
   },
   {
     "name": "NFAcourses - Instructor",
@@ -133,7 +133,7 @@
     "slug": "nf-acourses-course-call",
     "status": "up",
     "uptime": "99.36%",
-    "time": 143
+    "time": 144
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
@@ -149,7 +149,7 @@
     "slug": "nf-acourses-end-of-course-evaluation",
     "status": "up",
     "uptime": "99.37%",
-    "time": 71
+    "time": 72
   },
   {
     "name": "NFAcourses - Long term evaluation",
@@ -165,7 +165,7 @@
     "slug": "publications",
     "status": "up",
     "uptime": "99.37%",
-    "time": 307
+    "time": 308
   },
   {
     "name": "Thesaurus",
