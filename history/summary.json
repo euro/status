@@ -12,7 +12,7 @@
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "time": 405
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://apps.usfa.fema.gov/contact/ntsc",
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "time": 360
   },
   {
@@ -107,9 +107,9 @@
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "time": 2150
+    "time": 2332
   },
   {
     "name": "NFAcourses",
@@ -148,7 +148,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/eoc",
     "slug": "nf-acourses-end-of-course-evaluation",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "time": 71
   },
   {
