@@ -28,7 +28,7 @@
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "time": 952
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://apps.usfa.fema.gov/contact/voucher",
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "time": 689
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "time": 358
   },
   {
@@ -92,31 +92,31 @@
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "time": 400
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "up",
-    "uptime": "99.06%",
-    "time": 2476
+    "status": "down",
+    "uptime": "99.07%",
+    "time": 2523
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "time": 3272
+    "time": 3440
   },
   {
     "name": "NFAcourses",
     "url": "https://apps.usfa.fema.gov/nfacourses",
     "slug": "nf-acourses",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "time": 181
   },
   {
