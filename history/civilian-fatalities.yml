@@ -1,7 +1,7 @@
 url: https://apps.usfa.fema.gov/civilian-fatalities  
-status: down
-code: 500
-responseTime: 7269
-lastUpdated: 2021-03-24T01:06:18.009Z
+status: up
+code: 200
+responseTime: 410
+lastUpdated: 2021-03-24T02:09:47.659Z
 startTime: Wed Nov 25 2020 04:22:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
