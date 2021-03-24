@@ -11,9 +11,9 @@
     "name": "USFA Apps",
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
-    "status": "down",
-    "uptime": "99.42%",
-    "time": 406
+    "status": "up",
+    "uptime": "99.39%",
+    "time": 405
   },
   {
     "name": "USFA NFA",
@@ -27,9 +27,9 @@
     "name": "Civilian fatalities",
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
-    "status": "down",
-    "uptime": "99.23%",
-    "time": 1010
+    "status": "up",
+    "uptime": "99.20%",
+    "time": 1007
   },
   {
     "name": "Contact - NFA courses voucher",
