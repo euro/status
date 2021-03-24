@@ -27,41 +27,41 @@
     "name": "Civilian fatalities",
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
-    "status": "down",
-    "uptime": "99.28%",
-    "time": 1017
+    "status": "up",
+    "uptime": "99.24%",
+    "time": 1016
   },
   {
     "name": "Contact - NFA courses voucher",
     "url": "https://apps.usfa.fema.gov/contact/voucher",
     "slug": "contact-nfa-courses-voucher",
-    "status": "down",
-    "uptime": "99.30%",
-    "time": 960
+    "status": "up",
+    "uptime": "99.26%",
+    "time": 962
   },
   {
     "name": "Contact - Register for Fire is Everyones Fight materials",
     "url": "https://apps.usfa.fema.gov/contact/fief",
     "slug": "contact-register-for-fire-is-everyones-fight-materials",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 665
+    "time": 666
   },
   {
     "name": "Contact - Qualitative feedback on analytical reports",
     "url": "https://apps.usfa.fema.gov/contact/dataReportEval",
     "slug": "contact-qualitative-feedback-on-analytical-reports",
-    "status": "down",
-    "uptime": "99.33%",
-    "time": 628
+    "status": "up",
+    "uptime": "99.30%",
+    "time": 635
   },
   {
     "name": "Contact - NFIRS tech support form",
     "url": "https://apps.usfa.fema.gov/contact/ntsc",
     "slug": "contact-nfirs-tech-support-form",
-    "status": "down",
-    "uptime": "99.34%",
-    "time": 435
+    "status": "up",
+    "uptime": "99.30%",
+    "time": 436
   },
   {
     "name": "Contact - Credly badge request",
