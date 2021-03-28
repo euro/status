@@ -84,7 +84,7 @@
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "time": 424
   },
   {
@@ -92,16 +92,16 @@
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "time": 416
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "up",
-    "uptime": "99.05%",
-    "time": 2472
+    "status": "down",
+    "uptime": "99.06%",
+    "time": 2664
   },
   {
     "name": "Hotel/Motel state management",
@@ -164,7 +164,7 @@
     "url": "https://apps.usfa.fema.gov/publications",
     "slug": "publications",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "time": 286
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://apps.usfa.fema.gov/thesaurus",
     "slug": "thesaurus",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "time": 218
   }
 ]
