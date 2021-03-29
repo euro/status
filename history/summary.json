@@ -44,7 +44,7 @@
     "url": "https://apps.usfa.fema.gov/contact/fief",
     "slug": "contact-register-for-fire-is-everyones-fight-materials",
     "status": "up",
-    "uptime": "83.54%",
+    "uptime": "83.50%",
     "time": 665
   },
   {
@@ -99,17 +99,17 @@
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "down",
-    "uptime": "99.06%",
-    "time": 3199
+    "status": "up",
+    "uptime": "99.04%",
+    "time": 3200
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
-    "status": "down",
-    "uptime": "99.05%",
-    "time": 4242
+    "status": "up",
+    "uptime": "99.03%",
+    "time": 4429
   },
   {
     "name": "NFAcourses",
