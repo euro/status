@@ -60,7 +60,7 @@
     "url": "https://apps.usfa.fema.gov/contact/ntsc",
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "time": 438
   },
   {
@@ -99,9 +99,9 @@
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "time": 3528
+    "time": 3530
   },
   {
     "name": "Hotel/Motel state management",
