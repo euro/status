@@ -13,7 +13,7 @@
     "slug": "usfa-apps",
     "status": "up",
     "uptime": "99.42%",
-    "time": 410
+    "time": 413
   },
   {
     "name": "USFA NFA",
@@ -21,7 +21,7 @@
     "slug": "usfa-nfa",
     "status": "up",
     "uptime": "99.46%",
-    "time": 392
+    "time": 394
   },
   {
     "name": "Civilian fatalities",
@@ -29,7 +29,7 @@
     "slug": "civilian-fatalities",
     "status": "up",
     "uptime": "99.24%",
-    "time": 1012
+    "time": 1014
   },
   {
     "name": "Contact - NFA courses voucher",
@@ -37,14 +37,14 @@
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
     "uptime": "99.28%",
-    "time": 975
+    "time": 976
   },
   {
     "name": "Contact - Register for Fire is Everyones Fight materials",
     "url": "https://apps.usfa.fema.gov/contact/fief",
     "slug": "contact-register-for-fire-is-everyones-fight-materials",
     "status": "up",
-    "uptime": "83.50%",
+    "uptime": "83.54%",
     "time": 665
   },
   {
@@ -69,14 +69,14 @@
     "slug": "contact-credly-badge-request",
     "status": "up",
     "uptime": "99.89%",
-    "time": 611
+    "time": 601
   },
   {
     "name": "Contact - Library research consultation request",
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "time": 357
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "time": 425
   },
   {
@@ -92,7 +92,7 @@
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "time": 417
   },
   {
@@ -117,7 +117,7 @@
     "slug": "nf-acourses",
     "status": "up",
     "uptime": "99.41%",
-    "time": 207
+    "time": 208
   },
   {
     "name": "NFAcourses - Instructor",
@@ -173,6 +173,6 @@
     "slug": "thesaurus",
     "status": "up",
     "uptime": "99.41%",
-    "time": 219
+    "time": 220
   }
 ]
