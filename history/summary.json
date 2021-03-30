@@ -99,9 +99,9 @@
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "time": 3425
+    "time": 3528
   },
   {
     "name": "Hotel/Motel state management",
