@@ -92,7 +92,7 @@
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "time": 417
   },
   {
@@ -100,16 +100,16 @@
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
     "status": "down",
-    "uptime": "98.91%",
+    "uptime": "98.89%",
     "time": 4303
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
-    "status": "down",
-    "uptime": "98.91%",
-    "time": 5182
+    "status": "up",
+    "uptime": "98.89%",
+    "time": 5294
   },
   {
     "name": "NFAcourses",
