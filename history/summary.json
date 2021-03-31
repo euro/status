@@ -5,7 +5,7 @@
     "slug": "usfa-akamai",
     "status": "up",
     "uptime": "99.95%",
-    "time": 511
+    "time": 510
   },
   {
     "name": "USFA Apps",
@@ -21,7 +21,7 @@
     "slug": "usfa-nfa",
     "status": "up",
     "uptime": "99.46%",
-    "time": 394
+    "time": 392
   },
   {
     "name": "Civilian fatalities",
@@ -29,7 +29,7 @@
     "slug": "civilian-fatalities",
     "status": "up",
     "uptime": "99.25%",
-    "time": 1014
+    "time": 1016
   },
   {
     "name": "Contact - NFA courses voucher",
@@ -37,7 +37,7 @@
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
     "uptime": "99.29%",
-    "time": 976
+    "time": 977
   },
   {
     "name": "Contact - Register for Fire is Everyones Fight materials",
@@ -45,7 +45,7 @@
     "slug": "contact-register-for-fire-is-everyones-fight-materials",
     "status": "up",
     "uptime": "100.00%",
-    "time": 665
+    "time": 664
   },
   {
     "name": "Contact - Qualitative feedback on analytical reports",
@@ -69,7 +69,7 @@
     "slug": "contact-credly-badge-request",
     "status": "up",
     "uptime": "99.89%",
-    "time": 601
+    "time": 591
   },
   {
     "name": "Contact - Library research consultation request",
@@ -148,7 +148,7 @@
     "url": "https://apps.usfa.fema.gov/nfacourses/eoc",
     "slug": "nf-acourses-end-of-course-evaluation",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "time": 74
   },
   {
