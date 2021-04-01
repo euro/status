@@ -5,7 +5,7 @@
     "slug": "usfa-akamai",
     "status": "up",
     "uptime": "99.95%",
-    "time": 510
+    "time": 511
   },
   {
     "name": "USFA Apps",
@@ -13,7 +13,7 @@
     "slug": "usfa-apps",
     "status": "up",
     "uptime": "99.43%",
-    "time": 413
+    "time": 414
   },
   {
     "name": "USFA NFA",
@@ -21,7 +21,7 @@
     "slug": "usfa-nfa",
     "status": "up",
     "uptime": "99.47%",
-    "time": 392
+    "time": 394
   },
   {
     "name": "Civilian fatalities",
@@ -69,14 +69,14 @@
     "slug": "contact-credly-badge-request",
     "status": "up",
     "uptime": "99.89%",
-    "time": 591
+    "time": 582
   },
   {
     "name": "Contact - Library research consultation request",
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "time": 357
   },
   {
@@ -93,15 +93,15 @@
     "slug": "firefighter-fatalities",
     "status": "up",
     "uptime": "99.27%",
-    "time": 417
+    "time": 418
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
     "status": "up",
-    "uptime": "98.83%",
-    "time": 4304
+    "uptime": "98.84%",
+    "time": 4204
   },
   {
     "name": "Hotel/Motel state management",
@@ -109,7 +109,7 @@
     "slug": "hotel-motel-state-management",
     "status": "up",
     "uptime": "98.87%",
-    "time": 5292
+    "time": 5293
   },
   {
     "name": "NFAcourses",
@@ -117,7 +117,7 @@
     "slug": "nf-acourses",
     "status": "up",
     "uptime": "99.42%",
-    "time": 208
+    "time": 209
   },
   {
     "name": "NFAcourses - Instructor",
@@ -125,7 +125,7 @@
     "slug": "nf-acourses-instructor",
     "status": "up",
     "uptime": "99.42%",
-    "time": 119
+    "time": 120
   },
   {
     "name": "NFAcourses - Course call",
@@ -133,7 +133,7 @@
     "slug": "nf-acourses-course-call",
     "status": "up",
     "uptime": "99.42%",
-    "time": 170
+    "time": 171
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
@@ -173,6 +173,6 @@
     "slug": "thesaurus",
     "status": "up",
     "uptime": "99.42%",
-    "time": 220
+    "time": 221
   }
 ]
