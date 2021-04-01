@@ -1,7 +1,7 @@
 url: https://apps.usfa.fema.gov/hotel  
-status: down
-code: 500
-responseTime: 11000
-lastUpdated: 2021-04-01T15:30:52.842Z
+status: up
+code: 200
+responseTime: 2408
+lastUpdated: 2021-04-01T16:43:09.444Z
 startTime: Wed Nov 25 2020 04:22:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
