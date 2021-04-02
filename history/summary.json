@@ -13,7 +13,7 @@
     "slug": "usfa-apps",
     "status": "up",
     "uptime": "99.43%",
-    "time": 414
+    "time": 415
   },
   {
     "name": "USFA NFA",
@@ -29,7 +29,7 @@
     "slug": "civilian-fatalities",
     "status": "up",
     "uptime": "99.22%",
-    "time": 1086
+    "time": 1089
   },
   {
     "name": "Contact - NFA courses voucher",
@@ -61,7 +61,7 @@
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
     "uptime": "99.30%",
-    "time": 510
+    "time": 517
   },
   {
     "name": "Contact - Credly badge request",
@@ -69,7 +69,7 @@
     "slug": "contact-credly-badge-request",
     "status": "up",
     "uptime": "99.79%",
-    "time": 693
+    "time": 684
   },
   {
     "name": "Contact - Library research consultation request",
@@ -84,7 +84,7 @@
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "time": 496
   },
   {
@@ -109,7 +109,7 @@
     "slug": "hotel-motel-state-management",
     "status": "up",
     "uptime": "98.66%",
-    "time": 5785
+    "time": 5726
   },
   {
     "name": "NFAcourses",
@@ -125,7 +125,7 @@
     "slug": "nf-acourses-instructor",
     "status": "up",
     "uptime": "99.42%",
-    "time": 120
+    "time": 119
   },
   {
     "name": "NFAcourses - Course call",
@@ -133,7 +133,7 @@
     "slug": "nf-acourses-course-call",
     "status": "up",
     "uptime": "99.42%",
-    "time": 171
+    "time": 170
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
@@ -165,7 +165,7 @@
     "slug": "publications",
     "status": "up",
     "uptime": "99.39%",
-    "time": 357
+    "time": 359
   },
   {
     "name": "Thesaurus",
@@ -173,6 +173,6 @@
     "slug": "thesaurus",
     "status": "up",
     "uptime": "99.39%",
-    "time": 292
+    "time": 294
   }
 ]
