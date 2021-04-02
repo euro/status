@@ -99,17 +99,17 @@
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "time": 5649
+    "time": 5776
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "time": 5726
+    "time": 5826
   },
   {
     "name": "NFAcourses",
