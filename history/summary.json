@@ -12,32 +12,32 @@
     "url": "https://apps.usfa.fema.gov",
     "slug": "usfa-apps",
     "status": "up",
-    "uptime": "99.43%",
-    "time": 415
+    "uptime": "99.44%",
+    "time": 416
   },
   {
     "name": "USFA NFA",
     "url": "https://nfa.usfa.fema.gov",
     "slug": "usfa-nfa",
     "status": "up",
-    "uptime": "99.47%",
-    "time": 394
+    "uptime": "99.48%",
+    "time": 396
   },
   {
     "name": "Civilian fatalities",
     "url": "https://apps.usfa.fema.gov/civilian-fatalities",
     "slug": "civilian-fatalities",
     "status": "up",
-    "uptime": "99.22%",
-    "time": 1089
+    "uptime": "99.23%",
+    "time": 1090
   },
   {
     "name": "Contact - NFA courses voucher",
     "url": "https://apps.usfa.fema.gov/contact/voucher",
     "slug": "contact-nfa-courses-voucher",
     "status": "up",
-    "uptime": "99.26%",
-    "time": 1057
+    "uptime": "99.27%",
+    "time": 1058
   },
   {
     "name": "Contact - Register for Fire is Everyones Fight materials",
@@ -53,7 +53,7 @@
     "slug": "contact-qualitative-feedback-on-analytical-reports",
     "status": "up",
     "uptime": "99.30%",
-    "time": 712
+    "time": 713
   },
   {
     "name": "Contact - NFIRS tech support form",
@@ -61,22 +61,22 @@
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
     "uptime": "99.30%",
-    "time": 517
+    "time": 518
   },
   {
     "name": "Contact - Credly badge request",
     "url": "https://apps.usfa.fema.gov/contact/credlyBadge",
     "slug": "contact-credly-badge-request",
     "status": "up",
-    "uptime": "99.79%",
-    "time": 684
+    "uptime": "99.80%",
+    "time": 673
   },
   {
     "name": "Contact - Library research consultation request",
     "url": "https://apps.usfa.fema.gov/contact/researchConsult",
     "slug": "contact-library-research-consultation-request",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "time": 433
   },
   {
@@ -92,15 +92,15 @@
     "url": "https://apps.usfa.fema.gov/firefighter-fatalities",
     "slug": "firefighter-fatalities",
     "status": "up",
-    "uptime": "99.27%",
-    "time": 418
+    "uptime": "99.28%",
+    "time": 419
   },
   {
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "time": 5674
   },
   {
@@ -108,40 +108,40 @@
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
     "status": "up",
-    "uptime": "98.62%",
-    "time": 5827
+    "uptime": "98.63%",
+    "time": 5828
   },
   {
     "name": "NFAcourses",
     "url": "https://apps.usfa.fema.gov/nfacourses",
     "slug": "nf-acourses",
     "status": "up",
-    "uptime": "99.42%",
-    "time": 209
+    "uptime": "99.43%",
+    "time": 210
   },
   {
     "name": "NFAcourses - Instructor",
     "url": "https://apps.usfa.fema.gov/nfacourses/instructor",
     "slug": "nf-acourses-instructor",
     "status": "up",
-    "uptime": "99.42%",
-    "time": 119
+    "uptime": "99.43%",
+    "time": 120
   },
   {
     "name": "NFAcourses - Course call",
     "url": "https://apps.usfa.fema.gov/nfacourses/courseCall",
     "slug": "nf-acourses-course-call",
     "status": "up",
-    "uptime": "99.42%",
-    "time": 170
+    "uptime": "99.43%",
+    "time": 171
   },
   {
     "name": "NFAcourses - Distance learning evaluation",
     "url": "https://apps.usfa.fema.gov/nfacourses/DistanceLearningEvaluation",
     "slug": "nf-acourses-distance-learning-evaluation",
     "status": "up",
-    "uptime": "99.42%",
-    "time": 92
+    "uptime": "99.43%",
+    "time": 93
   },
   {
     "name": "NFAcourses - End of course evaluation",
@@ -157,7 +157,7 @@
     "slug": "nf-acourses-long-term-evaluation",
     "status": "up",
     "uptime": "99.43%",
-    "time": 74
+    "time": 75
   },
   {
     "name": "Publications",
@@ -165,14 +165,14 @@
     "slug": "publications",
     "status": "up",
     "uptime": "99.39%",
-    "time": 359
+    "time": 360
   },
   {
     "name": "Thesaurus",
     "url": "https://apps.usfa.fema.gov/thesaurus",
     "slug": "thesaurus",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "time": 294
   }
 ]
