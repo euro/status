@@ -52,7 +52,7 @@
     "url": "https://apps.usfa.fema.gov/contact/dataReportEval",
     "slug": "contact-qualitative-feedback-on-analytical-reports",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "time": 713
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://apps.usfa.fema.gov/contact/ntsc",
     "slug": "contact-nfirs-tech-support-form",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "time": 518
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://apps.usfa.fema.gov/contact/credlyBadge",
     "slug": "contact-credly-badge-request",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "time": 654
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://apps.usfa.fema.gov/registry",
     "slug": "fire-department-registry",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "time": 498
   },
   {
@@ -99,24 +99,24 @@
     "name": "Hotel/Motel",
     "url": "https://apps.usfa.fema.gov/hotel",
     "slug": "hotel-motel",
-    "status": "up",
-    "uptime": "98.64%",
-    "time": 5673
+    "status": "down",
+    "uptime": "98.65%",
+    "time": 5774
   },
   {
     "name": "Hotel/Motel state management",
     "url": "https://apps.usfa.fema.gov/hotel/state_management",
     "slug": "hotel-motel-state-management",
-    "status": "up",
-    "uptime": "98.65%",
-    "time": 5830
+    "status": "down",
+    "uptime": "98.66%",
+    "time": 6016
   },
   {
     "name": "NFAcourses",
     "url": "https://apps.usfa.fema.gov/nfacourses",
     "slug": "nf-acourses",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "time": 211
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://apps.usfa.fema.gov/publications",
     "slug": "publications",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "time": 360
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://apps.usfa.fema.gov/thesaurus",
     "slug": "thesaurus",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "time": 294
   }
 ]
